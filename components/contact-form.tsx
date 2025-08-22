@@ -34,6 +34,7 @@ export function ContactForm() {
         action: "submit_contact_form",
         category: "Contact",
         label: "Portfolio Contact Form",
+        value: undefined,
       })
 
       // In a real implementation, you would send the form data to your backend here
